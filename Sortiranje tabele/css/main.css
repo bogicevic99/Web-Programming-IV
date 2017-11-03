@@ -1,0 +1,32 @@
+* { margin: 0; padding: 0 }
+
+li { list-style: none; }
+
+table {
+	margin: 20px auto;
+}
+table, th, td {
+	border-collapse: collapse;
+	border: 1px solid #000;
+}
+th {
+	background-color: #DED;
+}
+th, td {
+	padding: 4px 8px;
+	min-width: 80px;
+
+}
+a {
+	display: block;
+	margin: 10px auto;
+	text-align: center;
+}
+hr {
+	margin: 4px auto;
+}
+div {
+	width: 500px;
+	margin: 15px auto;
+	text-align: center;
+}
